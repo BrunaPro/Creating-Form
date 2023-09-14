@@ -1,0 +1,50 @@
+body {
+	    font-family: Arial, Helvetica, sans-serif;
+		color: black;
+		background-color: rgb(206, 238, 79); 
+		font-size:medium;
+		text-align: center;
+}
+
+#intrd{
+	color: white;
+}
+
+#footer{
+	font-family:Arial, sans-serif;
+	font: 40px;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	color:rgb(203, 17, 63);
+}
+
+h1 {
+	font-family:Arial, sans-serif;
+	font: 90px;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	color:black;
+}
+
+h3 {
+	font-family:Arial, sans-serif;
+	font: 60px;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	color:rgb(203, 17, 63);
+
+}
+
+
+label {
+	width: 200px;
+	text-align: right;
+	color:black;
+	font-weight:bold;
+
+}
+
+legend{
+	font-weight:bold;
+	color:white;
+}
